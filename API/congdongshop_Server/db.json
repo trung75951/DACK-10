@@ -1,0 +1,182 @@
+{
+    "mohinh":[
+       {
+          "id":1,
+          "name":"Mô Hình One Piece Chính Hãng – Hỏa Quyền ACE Portgas D. Ace Treasure Cruise",
+          "price":"840.000 ₫",
+          "modelstatus":"Mới 100%, nguyên box, nguyên seal",
+          "company":"BANDAI",
+          "type":"Nhựa PVC ABS",
+          "size":"~20cm",
+          "from":"Nhật Bản",
+          "Commit":"Chính hãng – Nguyên tem vàng",
+          "available":false
+       },
+       {
+          "id":2,
+          "name":"Mô Hình Kento Nanami Jujutsu Kaisen Chính Hãng",
+          "price":"560.000 ₫",
+          "modelstatus":"Mới 100%, nguyên box, nguyên seal",
+          "company":"TAITO",
+          "type":" Nhựa PVC nặng",
+          "size":"~19cm",
+          "from":"Nhật Bản",
+          "box":"Mô hình, phụ kiện, base đứng",
+          "available":false
+       },
+       {
+          "id":3,
+          "name":"Mô Hình Dragon Ball GT ULTIMATE SOLDIERS TRUNKS B",
+          "price":"520.000 ₫",
+          "modelstatus":"Mới 100%, nguyên box, nguyên seal",
+          "company":"Banpresto",
+          "type":"Nhựa PVC nặng",
+          "size":"~19cm",
+          "from":"Nhật Bản",
+          "Commit":"Chính hãng – Nguyên tem vàng",
+          "available":true
+       },
+       {
+          "id":4,
+          "name":"Mô Hình Son Goku Dragon Ball Z History Box Vol.2",
+          "price":"550.000 ₫",
+          "modelstatus":"Mới 100%, nguyên box, nguyên seal",
+          "company":"Banpresto",
+          "type":"Nhựa PVC",
+          "size":"~14cm",
+          "from":"Nhật Bản",
+          "Commit":"Chính hãng – Nguyên tem vàng",
+          "available":true
+       },
+       {
+          "id":5,
+          "name":"Mô Hình Dragon Ball Maximatic The Son Goku VI 20cm BANPRESTO",
+          "price":"520.000 ₫",
+          "modelstatus":"Mới 100%, nguyên box, nguyên seal",
+          "company":"Banpresto",
+          "type":" Nhựa PVC nặng",
+          "size":"~20cm",
+          "from":"Nhật Bản",
+          "available":true
+       },
+       {
+          "id":6,
+          "name":"Mô Hình Dragon Ball MAXIMATIC THE VEGETA",
+          "price":"450.000 ₫",
+          "modelstatus":"Mới 100%, nguyên box, nguyên seal",
+          "company":"BANPRESTO",
+          "type":" Nhựa PVC",
+          "size":"~20cm",
+          "from":"Nhật Bản",
+          "Commit":"Chính hãng – Nguyên tem vàng",
+          "available":false
+       },
+       {
+          "id":7,
+          "name":"Mô Hình Vegeta Clearise Super Saiyan God – Dragon Ball Figure",
+          "price":"540.000 ₫",
+          "modelstatus":"Mới 100%, nguyên box, nguyên seal",
+          "company":"BANPRESTO",
+          "type":" Nhựa PVC",
+          "size":"~20cm",
+          "from":"Nhật Bản",
+          "Commit":"Chính hãng – Nguyên tem vàng",
+          "available":true
+       },
+       {
+          "id":8,
+          "name":"Mô Hình Son Goku Maximatic 3 – Dragon Ball Figure",
+          "price":"540.000 ₫",
+          "modelstatus":"Mới 100%, nguyên box, nguyên seal",
+          "company":"BANPRESTO",
+          "type":" Nhựa PVC",
+          "size":"~22cm",
+          "from":"Nhật Bản",
+          "Commit":" Chính hãng 100%",
+          "available":true
+       },
+       {
+          "id":9,
+          "name":"Mô Hình Gojo Satoru Noodle – Jujutsu Kaisen Figure",
+          "price":"490.000 ₫",
+          "modelstatus":"Mới 100%, nguyên box, nguyên seal",
+          "company":"NOODLE STOPPER",
+          "type":" Nhựa PVC",
+          "size":"~15cm",
+          "from":"Nhật Bản",
+          "Commit":" Chính hãng 100%",
+          "available":false
+       },
+       {
+          "id":10,
+          "name":"Mô Hình Gojo Satoru Chính Hãng – Jujutsu Kaisen SPM SEGA Figure",
+          "price":"490.000 ₫",
+          "modelstatus":"Mới 100%, nguyên box, nguyên seal",
+          "company":"SEGA",
+          "type":" Nhựa PVC",
+          "size":"~20cm",
+          "from":"Nhật Bản",
+          "Commit":" Chính hãng 100%",
+          "available":true
+       }
+    ],
+    "orders":[
+       {
+          "id":1,
+          "mohinhId":1,
+          "username":"Trung",
+          "soluong":1,
+          "timestamp":1645417257150
+       },
+        {
+            "id":2,
+            "mohinhId":1,
+            "username":"Thinh",
+            "soluong":5,
+            "timestamp":1645417257150
+        }
+    ],
+    "users":[
+       {
+          "id":1,
+          "usersname":"Kiệt",
+          "email":"test@gmail.com",
+          "password":"123"
+       },
+       {
+          "id":2,
+          "usersname":"Thinh",
+          "email":"thinh123@gmail.com",
+          "password":"123"
+       },
+       {
+          "id":3,
+          "usersname":"Trung",
+          "email":"whillits@gmail.com",
+          "password":"tuphuoctrung123456789"
+       }
+    ],
+    "lienhe":[
+       {
+          "id":1,
+          "name":"Trung",
+          "email":"whillits@gmail.com",
+          "phone":"12345678910",
+          "content": "Đây là nội dung của liên hệ của Trung"
+       },
+       {
+          "id":2,
+          "name":"Kiệt",
+          "email":"test@gmail.com",
+          "phone":"12345678911",
+          "content": "Đây là nội dung của liên hệ Kiệt"
+       },
+       {
+          "id":3,
+          "name":"Thinh",
+          "email":"thinh123@gmail.com",
+          "phone":"12345678912",
+          "content": "Đây là nội dung của liên hệ Thinh"
+       }
+    ]
+ }
